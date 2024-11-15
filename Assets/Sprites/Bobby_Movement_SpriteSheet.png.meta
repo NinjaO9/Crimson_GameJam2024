@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 3bb6e9cd5df407640986e2c0885dae9d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 143
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd53973b2a78a479171514a909bb17
+      internalID: 958384005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 143
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e14dcab082f541b373151afbd9522
+      internalID: -803465308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 143
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948ed9e43c913a4280dcd1a5c4d9634
+      internalID: -1437185445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 143
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb42ddc8ea26af048a4e2efd03d84a73
+      internalID: -1443781887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 143
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47254ed8facdeb1459fe995185658f3e
+      internalID: 98844234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 142
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db160626c39d404e8da0f513aeb93a4
+      internalID: 619995316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 143
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88ee481a3c844c4bb127cc2c049d6dd
+      internalID: 499225227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 143
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac553c6dc6690c54884104687c4a24d5
+      internalID: 730953601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 111
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2d7fe819d59d4b8018aa37c21f564
+      internalID: -1751937108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 111
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba70899be872fe4e88e065124ab6d4a
+      internalID: -988004818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 111
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49963badf0234ba4a963c581f958ca1e
+      internalID: 1711869966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 111
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c340f94dd2b01489f7e4feb6de7ae6
+      internalID: 1750459519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 111
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852a2a2376ea0094dbcc7ec48aad2cea
+      internalID: -1987430530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 113
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95df237697437554294cc0cbd7971545
+      internalID: 1946911291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 111
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9b2d66be8f7c748875820bf1ecb4a7
+      internalID: -2124418617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 111
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a7b6a3c9a2ba04694075235fc26f66
+      internalID: -1232462040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 112
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee22e54e2f79743a0abc86dcf9b086
+      internalID: -573815908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 112
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2226cb2a8511024498f7f554620b386b
+      internalID: -1722302735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 112
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdc0db605a93e74ab08d6f709d130cc
+      internalID: 604723987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 114
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d6e7ba25be5ef4cb1fa054b77866d4
+      internalID: 1784679241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 80
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dc6492dcc72db4eb69f6b1314eebcd
+      internalID: 808555834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 49
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9706f2c00b7f05c4985836d7237851a5
+      internalID: -929600246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 49
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957d4816b9dec4f468184b4c507a2a98
+      internalID: 1713907077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 17
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a254bb62124af944be1d7e7680eb0fb
+      internalID: -1433092598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39e81fef525a6a48b1120cd5ff2f523
+      internalID: 1076034486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 17
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c559eafc3957c429a275d3fed094f5
+      internalID: -915478807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a6b49507fa7404198b2a60731d1c33
+      internalID: 392565625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 17
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41287e35d8ff35746aa4c1580d907832
+      internalID: 2100578023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 17
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cac8dc9d954904c8302f8285f8d511
+      internalID: -1872206607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 23
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6eef2400525c142bfc41c55b474472
+      internalID: 944874231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 22
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb98ca631fd75947b85bab4cdb4176e
+      internalID: 1868803417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 17
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b8ce511cb6a4042b121641803017a5
+      internalID: -753360411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 17
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3401b480653f84469c7d11429ade2b0
+      internalID: -989651088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 17
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7193fa1868092e44c84008507c5fc54c
+      internalID: 654501318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 17
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802b4c96d4982b64ba1626561a54dbcb
+      internalID: -130889757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bobby_Movement_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 17
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f89206499f4efa468c4094835f869f5
+      internalID: -50747421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bobby_Movement_SpriteSheet: 958384005
+      Bobby_Movement_SpriteSheet_1: -803465308
+      Bobby_Movement_SpriteSheet_10: 1711869966
+      Bobby_Movement_SpriteSheet_11: 1750459519
+      Bobby_Movement_SpriteSheet_12: -1987430530
+      Bobby_Movement_SpriteSheet_13: 1946911291
+      Bobby_Movement_SpriteSheet_14: -2124418617
+      Bobby_Movement_SpriteSheet_15: -1232462040
+      Bobby_Movement_SpriteSheet_16: -573815908
+      Bobby_Movement_SpriteSheet_17: -1722302735
+      Bobby_Movement_SpriteSheet_18: 604723987
+      Bobby_Movement_SpriteSheet_19: 1784679241
+      Bobby_Movement_SpriteSheet_2: -1437185445
+      Bobby_Movement_SpriteSheet_20: 808555834
+      Bobby_Movement_SpriteSheet_21: -929600246
+      Bobby_Movement_SpriteSheet_22: 1713907077
+      Bobby_Movement_SpriteSheet_23: -1433092598
+      Bobby_Movement_SpriteSheet_24: 1076034486
+      Bobby_Movement_SpriteSheet_25: -915478807
+      Bobby_Movement_SpriteSheet_26: 392565625
+      Bobby_Movement_SpriteSheet_27: 2100578023
+      Bobby_Movement_SpriteSheet_28: -1872206607
+      Bobby_Movement_SpriteSheet_29: 944874231
+      Bobby_Movement_SpriteSheet_3: -1443781887
+      Bobby_Movement_SpriteSheet_30: 1868803417
+      Bobby_Movement_SpriteSheet_31: -753360411
+      Bobby_Movement_SpriteSheet_32: -989651088
+      Bobby_Movement_SpriteSheet_33: 654501318
+      Bobby_Movement_SpriteSheet_34: -130889757
+      Bobby_Movement_SpriteSheet_35: -50747421
+      Bobby_Movement_SpriteSheet_4: 98844234
+      Bobby_Movement_SpriteSheet_5: 619995316
+      Bobby_Movement_SpriteSheet_6: 499225227
+      Bobby_Movement_SpriteSheet_7: 730953601
+      Bobby_Movement_SpriteSheet_8: -1751937108
+      Bobby_Movement_SpriteSheet_9: -988004818
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
